@@ -1,0 +1,6 @@
+#aqui são os códigos da IC da amanda
+
+#!/usr/bin/env python3
+
+print("hello world")
+
