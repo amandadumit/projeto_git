@@ -1,0 +1,5 @@
+#novo codigo de python
+
+#!/usr/bin/env python3
+
+adkakfok
